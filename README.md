@@ -8,9 +8,9 @@ I'm interested in hardware and low-level programming.
 
 Something that I find better than finding bugs and vulnerabilities, is understanding and breaking them down.
 
-My main tech stack is Java, C/C++, Python, PostgreSQL, HTML, CSS, JavaScript and React.
-I also know Cybersecurity concepts, Wireshark, Nmap, SIEM Tools (Splunk, IBM QRadar), and security frameworks such as MITRE ATT&CK, NIST CSF and RMF.
-Computer Networking, Operating Systems (Ubuntu, Debian, Arch, Fedora), Virtualization are also abilities that I possess.
+My main tech stack is Java, C/C++, Python, PostgreSQL, HTML, CSS, JavaScript and React.  
+I also know Cybersecurity concepts, Wireshark, Nmap, SIEM Tools (Splunk, IBM QRadar), and security frameworks such as MITRE ATT&CK, NIST CSF and RMF.  
+Computer Networking, Operating Systems (Ubuntu, Debian, Arch, Fedora), Virtualization are also abilities that I possess.  
 
 I have some projects, but my main project is [DoS Monitoring Tool](https://github.com/surufel/dos-attack-detector.git) and [Battery Notifier](https://github.com/surufel/BatteryNotifier)
 
